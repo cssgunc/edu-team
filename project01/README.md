@@ -104,7 +104,7 @@ This headline should be a header, but one decently smaller than the one you chos
 
 ### Step 6, 7, and 8:
 
-The next three steps include adding sections for "About" "Education", and "Coursework". For each of these sections, feel free to use a header to denote each section. Then, add some text using the `<p>` paragraph tag in each of those sections:
+The next three steps include adding sections for "About" "Education", and "Coursework". For each of these sections, feel free to use a header to denote each section. Then, add some text using the `<p>` paragraph tag in each of those sections.
 
 **Challenge:** Try to use an *unordered list* to create bulletpoints for the coursework you have taken at UNC! Unordered lists look like:
 
