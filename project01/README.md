@@ -86,7 +86,7 @@ This step is simple: simply add a header to your website that includes your name
 
 Recall the `<h1>`, `<h2>`, and `<h3>` tags from the lesson video to create a header.
 
-## Step 4: 
+### Step 4: 
 
 The next step is fun -- adding an image! 
 
@@ -96,13 +96,13 @@ Try to add an image to your website by following the documentation! W3Schools is
 
 Becoming familiar with using documentation as a source is extremely useful both in the Education Team and CS+SG in general, but in all of your UNC COMP classes as well.
 
-## Step 5:
+### Step 5:
 
 The next step is to add a headline! This is usually a single sentence that sumamarizes you.
 
 This headline should be a header, but one decently smaller than the one you chose for Step 3. I recommend using `<h3>` or `<h4>` for this step.
 
-## Step 6, 7, and 8:
+### Step 6, 7, and 8:
 
 The next three steps include adding sections for "About" "Education", and "Coursework". For each of these sections, feel free to use a header to denote each section. Then, add some text using the `<p>` paragraph tag in each of those sections:
 
